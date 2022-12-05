@@ -3,6 +3,6 @@ This repository includes bigger projects that I've completed while colaborating 
 
 The projects listed in this portfolio are:
 1. Movie Streaming Platform Analysis
-  * The data file is the data used for this project
+   * The data file is the data used for this project
 2. Supervised and Unsupervised Sentiment Analysis on Goodreads Review Text
-  * sentiment analysis data is the data used for this project
+   * sentiment analysis data is the data used for this project
