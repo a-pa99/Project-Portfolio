@@ -6,3 +6,4 @@ The projects listed in this portfolio are:
    * The data file is the data used for this project
 2. Supervised and Unsupervised Sentiment Analysis on Goodreads Review Text
    * sentiment analysis data is the data used for this project
+3. Should Racine, Wisconsin create a pro-Hockey team? (Communicating Data Results from Census Data)
