@@ -1,9 +1,15 @@
 # Project Portfolio
-This repository includes bigger projects that I've completed while colaborating with others. I will be adding to this portfolio as projects are completed.
+This repository includes Data Scinence Projects completed by me independently and within a group for academic and self-learning purposes. All code is presented in the form of Jupyter Notebooks.
 
-The projects listed in this portfolio are:
-1. Movie Streaming Platform Analysis
-   * The data file is the data used for this project
-2. Supervised and Unsupervised Sentiment Analysis on Goodreads Review Text
-   * sentiment analysis data is the data used for this project
-3. Should Racine, Wisconsin create a pro-Hockey team? (Communicating Data Results from Census Data)
+## Content
+* ### Exploratory Data Analysis (EDA)
+  * Movie Streaming Platforms EDA: Comparing grammy and emmy winning/nominated shows and movies on Netflix and Amazon Prime to see if these winning/nominated shows impact platform popularity.
+*Tools Used: pandas, numpy, altair, seaborn, matplotlib*
+  
+* ### Natural Language Processing (NLP)
+  * 2-way sentiment Analysis of Goodreads Book Reviews: 2-way sentiment classification (good, bad), using three supervised and unsupervised techniques.
+*Tools Used: scikit-learn, numpy, pandas, seaborn, matplotlib, nltk, gensim*
+  
+* ### Communicating Data Results
+  * City Comparisons For Potential Hockey Team: Comparing two cities (Alpena, MI and Racine, WI) to see which city has the most potential for a new Hockey Team.
+*Tools Used: Microsoft PowerPoint, Datawrapper*
