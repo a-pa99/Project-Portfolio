@@ -12,7 +12,7 @@ This repository includes Data Scinence Projects completed by me independently an
 
 *Tools Used: scikit-learn, numpy, pandas, seaborn, matplotlib, nltk, gensim*
 
-* ### [Course Recommendation System]([Project-Portfolio/tree/main/Course-Recommender-System-Capstone]([https://github.com/a-pa99/Project-Portfolio/tree/main/Course-Recommender-System-Capstone)](https://github.com/a-pa99/Project-Portfolio/blob/main/Course-Recommender-System-Capstone/README.md))
+* ### [Course Recommendation System]
   * Content Based Recommendation System that accepts job titles as input and outputs course recommendations. This project comes with a app that can be ran locally. Information for the app can be found in the capstone project folder.
   
   *Tools Used: gensim, numpy, pandas, seaborn, plotly, plotly dash, nltk, regex, RAKE, YAKE, RoBERTa, postgresql*
